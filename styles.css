@@ -1,5 +1,5 @@
-body{
-    background-color: darkblue;
+body{  
+    background-image:url(https://i.pinimg.com/originals/47/b0/fc/47b0fc72de8473487d5e1d4df4a83518.jpg);
     justify-content: center;
     margin-left: 10%;
     margin-right: 10%;
@@ -24,12 +24,18 @@ select{
     margin-left: 10%;
 }
 label{
-    color: white;
+    color:black;
     font-size: 40px;
     margin-left: 10%;
 }
 h1{
-    color: white;
+    color:black;
+    Background-color: rgba(228, 205, 255, 0.678);
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+   
+
 }
 button{
     width: 20%;
